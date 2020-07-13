@@ -4,7 +4,7 @@ title: About me
 subtitle: Who am I?
 ---
 
-### [IN PROGGRESS] 
+### [IN PROGGRESS]  
 
 P.S. : I just lied. To be honest, I am not planning to update the content any time soon.   \o/
 
