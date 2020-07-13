@@ -12,11 +12,11 @@ author: Burak Ekim
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "BURAK BURAK BURAK "
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "about"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -25,7 +25,7 @@ navbar-links:
 avatar: "/assets/img/avatar.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: False
+round-avatar: True
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
