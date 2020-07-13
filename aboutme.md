@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I?
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### [IN PROGGRESS] 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+P.S. : I just lied. To be honest, I am not planning to update the content any time soon.   \o/
 
-What else do you need?
+A learner with a high passion. My main goal in life is to avoid underfitting and overfitting phenomenon.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+By the way, **convexification** is a cool concept, isn't it? Not to mention its catchy resonance.
