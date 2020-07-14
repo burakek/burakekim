@@ -90,7 +90,7 @@ navbar-border-col: "#FF8C00"
 page-col: "#FFFFFF"
 link-col: "#EEE8AA"
 hover-col: "#EEE8AA"
-footer-col: "#F5F5F5"
+footer-col: "FFFFFF"
 footer-text-col: "#87CEEB"
 footer-link-col: "#404040"
 
