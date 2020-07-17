@@ -1,4 +1,4 @@
-## burakek.github.io
+## burakekim.github.io
 
 Burak Ekim's github.io website.
 
